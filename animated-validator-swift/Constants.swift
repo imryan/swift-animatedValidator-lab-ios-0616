@@ -17,5 +17,4 @@ struct Constants {
     static let PASSWORDCONFIRMTEXTFIELD = "passwordConfirmTextField";
     static let SUBMITBUTTON = "submitButton";
     static let ALERTVIEW = "alertView";
-    
 }
